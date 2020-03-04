@@ -12,6 +12,7 @@ function City(name, population) {
 
 let london = new City("asd", 12454);
 
+console.log(london);
 console.log(london.getName());
 console.log(london.exportStr());
 
